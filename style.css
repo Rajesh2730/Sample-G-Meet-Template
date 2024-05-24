@@ -1,0 +1,233 @@
+.main-body{
+    background-color: rgb(29, 28, 28);
+}
+.user1{
+    height: 41rem;
+    width: 80%;
+    margin-left: 9rem;
+    border-radius: 6px;
+    background-color: rgb(52, 56, 58);
+}
+.voc{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background-color: rgb(1, 86, 255);
+    color: white;
+    position: relative;
+    left: 96%;
+    top: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: white;
+    position: relative;
+    top: 90%;
+    left: 15px;
+}
+.u-profile-border{
+    height: 15rem;
+    width: 15rem;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: relative;
+    left: 40%;
+    top: 8rem;
+}
+.u-profile{
+    height: 12rem;
+    width: 12rem;
+    border-radius: 50%;
+    background-image: url(user1.jpg);
+    background-size: cover;
+    position: relative;
+    top: 1.5rem;
+    left: 1.5rem;
+}
+.user2{
+    height: 8rem;
+    width: 15rem;
+    margin-left: 9rem;
+    border-radius: 6px;
+    background-color: rgb(76, 82, 84);
+    position: relative;
+    left: 78%;
+    top: 14rem;
+}
+.name1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: white;
+    position: relative;
+    top: 80%;
+    left: 10px;
+}
+.u-profile1{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    background-image: url(user2.jpg);
+    background-size: cover;
+    position: relative;
+    left: 5rem;
+}
+.options{
+    display: flex;
+    margin-top: 1.2rem;
+    margin-left: 1.2rem;
+}
+.info{
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.opt-btns{
+    margin-left: 24rem;
+    display: flex;
+}
+.opt2{
+    display: flex;
+    position: relative;
+    left: -1.3rem;
+}
+.up{
+    border-radius: 20px;
+    color: white;
+    width: 3rem;
+    height: 2rem;
+    background-color: rgb(52, 56, 58);
+    display: flex;
+}
+.mic{
+    border-radius: 50%;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    background-color: rgb(76, 82, 84);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: -1.7rem;
+}
+.vdo{
+    border-radius: 50%;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    background-color: rgba(255, 2, 2, 0.912);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: -1.7rem;
+}
+.cc{
+    border-radius: 50%;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    background-color: rgb(76, 82, 84);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: -2.5rem;
+}
+.smile{
+    border-radius: 50%;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    background-color: rgb(76, 82, 84);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: -2rem;
+}
+.ss{
+    border-radius: 50%;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    background-color: rgb(76, 82, 84);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: -1.5rem;
+}
+.hand{
+    border-radius: 50%;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    background-color: rgb(76, 82, 84);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: -1rem;
+}
+.opt{
+    border-radius: 50%;
+    color: white;
+    width: 2rem;
+    height: 2rem;
+    background-color: rgb(76, 82, 84);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: -.5rem;
+}
+.end{
+    border-radius: 20px;
+    color: white;
+    width: 3rem;
+    height: 2rem;
+    background-color: rgba(255, 2, 2, 0.912);
+    display: flex;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.gadgets{
+    margin-left: 20rem;
+    display: flex;
+    padding-top: .5rem;
+}
+.i{
+    color: white;
+    font-size: large;
+}
+.user{
+    color: white;
+    font-size: large;
+    margin-left: 1.4rem;
+}
+.msg{
+    color: white;
+    font-size: large;
+    margin-left: 1.4rem;
+}
+.shapes{
+    color: white;
+    font-size: large;
+    margin-left: 1.4rem;
+}
+.lock{
+    color: white;
+    font-size: large;
+    margin-left: 1.4rem;
+}
